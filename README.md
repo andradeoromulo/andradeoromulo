@@ -9,5 +9,5 @@ Tenho me concentrado em JavaScript, Node.js, Java e em alguns tópicos de Algori
 Você pode falar comigo pelo [Twitter](https://twitter.com/andradeoromulo) ou pelo [Linkedin](https://www.linkedin.com/in/romuloandrade/). Pode mandar sugestões de estudo, dicas de carreira, perguntas e memes. Ou só conversar mesmo.
 
 ### ✨ Hobbies e interesses 
-Gosto de experimentar diferentes cafés e de ler sobre cinema, arquitetura e design.   
+Gosto de fotografar, experimentar diferentes cafés, fazer trilhas e viajar.   
 
