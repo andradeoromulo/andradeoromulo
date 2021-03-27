@@ -1,13 +1,25 @@
-## Olá a todos e a todas 👋
+## Hello everyone! 👋
 
-Me chamo Rômulo, sou estudante (principalmente) de programação e trabalho como estagiário de desenvolvimento na [Sensedia](https://sensedia.com/). 
+My name is Rômulo and I'm a software development student currently working as an intern at [Sensedia](https://sensedia.com/). 
 
-### 📖 O que estou aprendendo
-Tenho me concentrado em JavaScript, Node.js, Java e em alguns tópicos de Algoritmos e Estrutura de Dados. A longo prazo, pretendo direcionar meus estudos para Desenvolvimento Back-End e Engenharia de Dados.
+### 🤓 What I've been learning
+I've been focused on Node.js and Java stacks, studying and practicing through projects with technologies such as: Java, JPA, Spring Framework, Maven; JavaScript, Node.js, Expresse, Sequelize, Mongoose; SQL, T-SQL, MySQL, SQL Server, MongoDB. 
 
-### 📫 Como entrar em contato
-Você pode falar comigo pelo [Twitter](https://twitter.com/andradeoromulo) ou pelo [Linkedin](https://www.linkedin.com/in/romuloandrade/). Pode mandar sugestões de estudo, dicas de carreira, perguntas e memes. Ou só conversar mesmo.
+### 📫 How to get in touch
+You can reach me on [Twitter](https://twitter.com/andradeoromulo) or on [Linkedin](https://www.linkedin.com/in/romuloandrade/). You may send me reading suggestions, career tips, questions, jokes... or we just chat (😅).
 
-### ✨ Hobbies e interesses 
-Gosto de fotografar, experimentar diferentes cafés, fazer trilhas e viajar.   
+### ✨ Hobbies and interests
+I really love traveling, tasting different coffee beans, hiking and taking pictures with my camera.
 
+---
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradeoromulo&hide=html&layout=compact&show_icons=true&theme=dracula" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=andradeoromulo&hide=contribs&show_icons=true&theme=dracula" /></td>
+    </tr>   
+  </table>
+</center>  
+
+---
