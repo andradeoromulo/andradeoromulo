@@ -17,7 +17,7 @@ I really love traveling (🌎), tasting different coffee beans (☕), hiking (�
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradeoromulo&hide=html&layout=compact&show_icons=true&theme=dracula" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=andradeoromulo&hide=contribs&show_icons=true&theme=dracula" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=andradeoromulo&show_icons=true&theme=dracula" /></td>
     </tr>   
   </table>
 </center>  
